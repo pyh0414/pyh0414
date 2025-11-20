@@ -1,6 +1,3 @@
-## Hi there 👋
-
-- 🔭 I’m currently working on BOLD9
 - 🌱 I’m currently learning GraphQL, Prisma
 - 📫 How to reach me: bether3465@gmail.com
 
